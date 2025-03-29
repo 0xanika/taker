@@ -2459,3 +2459,12 @@
 3/29/2025 | 4:27:15 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 3/29/2025 | 4:27:15 AM | INFO | Trying to activate mining on-chain for wallet: 0x8228806b2E6ab9Ac9bF4e07b6B0c5bc4A8F72576 
 3/29/2025 | 4:27:26 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x4e1360f889375e739b1e004a9d6f4e1322fa71dc6d8b61f7a482c1c3e4c92ef6 
+3/29/2025 | 8:26:37 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/29/2025 | 8:26:37 AM | INFO | Start process for wallet 0x8228806b2E6ab9Ac9bF4e07b6B0c5bc4A8F72576 
+3/29/2025 | 8:26:37 AM | INFO | Trying To Login for wallet: 0x8228806b2E6ab9Ac9bF4e07b6B0c5bc4A8F72576 
+3/29/2025 | 8:26:38 AM | INFO | Login successful... 
+3/29/2025 | 8:26:38 AM | INFO | Trying to check user info... 
+3/29/2025 | 8:26:38 AM | INFO | User ID: 28309203 | Twitter: @anikaalavina | Total Points: 936000 
+3/29/2025 | 8:26:38 AM | INFO | Trying to check user miner status... 
+3/29/2025 | 8:26:39 AM | INFO | Last mining time: 3/29/2025, 4:27:21 AM
+3/29/2025 | 8:26:39 AM | WARN | Mining already started, next mining time is: 3/30/2025, 4:27:21 AM
