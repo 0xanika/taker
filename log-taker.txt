@@ -7238,3 +7238,15 @@
 6/21/2025 | 8:36:13 AM | WARN | Retrying... (0 attempts left) 
 6/21/2025 | 8:38:33 AM | ERROR | Failed to get nonce after retries: connect ETIMEDOUT 101.47.181.18:443
 6/21/2025 | 8:38:33 AM | ERROR | Failed to retrieve nonce for wallet: 0x8228806b2E6ab9Ac9bF4e07b6B0c5bc4A8F72576 
+6/21/2025 | 12:46:12 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+6/21/2025 | 12:46:12 PM | INFO | Start process for wallet 0x8228806b2E6ab9Ac9bF4e07b6B0c5bc4A8F72576 
+6/21/2025 | 12:46:13 PM | INFO | Trying To Login for wallet: 0x8228806b2E6ab9Ac9bF4e07b6B0c5bc4A8F72576 
+6/21/2025 | 12:46:14 PM | INFO | Login successful... 
+6/21/2025 | 12:46:14 PM | INFO | Trying to check user info... 
+6/21/2025 | 12:46:14 PM | INFO | User ID: 28309203 | Twitter: @anikaalavina | Total Points: 2688000 
+6/21/2025 | 12:46:14 PM | INFO | Trying to check user miner status... 
+6/21/2025 | 12:46:15 PM | INFO | Last mining time: 6/20/2025, 4:32:15 AM
+6/21/2025 | 12:46:15 PM | INFO | Trying to start Mining for wallet: 0x8228806b2E6ab9Ac9bF4e07b6B0c5bc4A8F72576 
+6/21/2025 | 12:46:16 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+6/21/2025 | 12:46:16 PM | INFO | Trying to activate mining on-chain for wallet: 0x8228806b2E6ab9Ac9bF4e07b6B0c5bc4A8F72576 
+6/21/2025 | 12:46:21 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x62d3da8fee89687b9a358c450a0025faf8c6fc2e0aaf6d48cba99ac258b9aa2f 
